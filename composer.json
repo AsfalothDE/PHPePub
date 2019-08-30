@@ -23,6 +23,11 @@
             "name": "Daniel Berthereau",
             "email": "daniel.composer@berthereau.net",
             "role": "Contributor"
+        },
+        {
+            "name": "Silvia Ulenberg",
+            "email": "kontakt@silviaulenberg.de",
+            "role": "Contributor"
         }
     ],
     "require": {
